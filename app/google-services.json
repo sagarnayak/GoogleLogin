@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597310099623",
+    "project_id": "fifth-handbook-139405"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597310099623:android:c9426eb465a4f68a",
+        "android_client_info": {
+          "package_name": "com.csm.library.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597310099623-oc4fn5gesc2un5p49a24qk1tr6vp496i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csm.library.googlelogin",
+            "certificate_hash": "68A6FD14CFA2A34DE2CBF5C3D46CCD494BD9F959"
+          }
+        },
+        {
+          "client_id": "597310099623-ejj2nqf3mbbi3r3ktgtv99j1vi2s9hu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1J6j_u2bHDswqY7nXd0v5ImVxOtnFSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
