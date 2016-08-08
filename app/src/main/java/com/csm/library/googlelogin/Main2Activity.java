@@ -49,6 +49,8 @@ this activity is an demo for how to use the Libclass for google login.
       getResult();                   to get result we got from google after a success full login.
       logout();                      logout from the account.
       isGoogleSignInResultPresent(); to check if the result is empty of has any value.
+
+the complete documentation can be found here - https://github.com/sagarnayak/GoogleLogin/wiki
  */
 public class Main2Activity extends AppCompatActivity {
 
