@@ -69,6 +69,8 @@ public class Main2Activity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        libclass = (Libclass) findViewById(R.id.libclass);
     }
 
     @Override
